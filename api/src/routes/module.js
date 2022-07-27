@@ -63,7 +63,7 @@ module.exports={
         return a
     },
     landing:function(){
-        const img = path.join(__dirname+'/img/lading.jpg')
+        const img ='lading.jpg'
     
         return {img}
     },
